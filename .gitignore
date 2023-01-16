@@ -1,4 +1,6 @@
+/.yarn
+
 /node_modules
-/core/send.js
-/core/conn.js
-/home.js
+/credentials/*
+/yarn-error.log
+/logs
